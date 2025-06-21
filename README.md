@@ -49,7 +49,7 @@ Algorithm used:
 ### Flow Chart
 
 
-![Flow Chart](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management/blob/85173080e3f91d0385547ac01510932249a85d11/Flow%20chart%20Final.png)
+![Flow Chart](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management-/blob/35658ccb773605d7e494775c297d3fddb64698ec/Flow%20chart%20Final.png)
 
 ### ER Diagram
 ![ER Diagram](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management/blob/85173080e3f91d0385547ac01510932249a85d11/ER%20Diagram.png)
