@@ -1,6 +1,6 @@
 Citation : [![DOI](https://doi.org/10.22214/ijraset.2025.70984)](https://doi.org/10.22214/ijraset.2025.70984)
-       <br>
-       [![DOI]( https://www.doi.org/10.56726/IRJMETS65781 )]( https://www.doi.org/10.56726/IRJMETS65781 )
+           <br>
+           [![DOI]( https://www.doi.org/10.56726/IRJMETS65781 )]( https://www.doi.org/10.56726/IRJMETS65781 )
                    
 
 # Face Recognition Attendance System
@@ -52,7 +52,7 @@ Algorithm used:
 ![Flow Chart](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management-/blob/35658ccb773605d7e494775c297d3fddb64698ec/Flow%20chart%20Final.png)
 
 ### ER Diagram
-![ER Diagram](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management/blob/85173080e3f91d0385547ac01510932249a85d11/ER%20Diagram.png)
+![ER Diagram](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management-/blob/1058818f40996793a5f8c0e1590c27ae23b2d5d6/ER%20Diagram.png)
 
 ## Features
 
@@ -74,42 +74,42 @@ Relational Database Management System (RDBMS)
 
 ## Login Page
 
-![Log In](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management/blob/8dc95302b9a76f686b0a15fb636b332c09314b83/Screenshots%20Outputs/Log%20in%20page.png)
+![Log In](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management-/blob/1058818f40996793a5f8c0e1590c27ae23b2d5d6/Screenshots%20Outputs/Log%20in%20page.png)
 
 ## Registration Page
 
-![Registration](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management/blob/8dc95302b9a76f686b0a15fb636b332c09314b83/Screenshots%20Outputs/Register%20page.png)
+![Registration](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management-/blob/1058818f40996793a5f8c0e1590c27ae23b2d5d6/Screenshots%20Outputs/Register%20page.png)
 
 ## Home Page 
 
-![Home](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management/blob/8dc95302b9a76f686b0a15fb636b332c09314b83/Screenshots%20Outputs/Home%20page.png)
+![Home](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management-/blob/1058818f40996793a5f8c0e1590c27ae23b2d5d6/Screenshots%20Outputs/Home%20page.png)
 
 ## Student Page
 
-![Student](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management/blob/8dc95302b9a76f686b0a15fb636b332c09314b83/Screenshots%20Outputs/Student%20page.png)
+![Student](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management-/blob/1058818f40996793a5f8c0e1590c27ae23b2d5d6/Screenshots%20Outputs/Student%20page.png)
 
 ## Taking Photo
 
-![Taking Photo](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management/blob/85173080e3f91d0385547ac01510932249a85d11/Screenshots%20Outputs/Taking%20photo.png)
+![Taking Photo](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management-/blob/25882a945d85264a5eb5075b535b985be3365e99/Screenshots%20Outputs/Taking%20photo.png)
 
 ## Training Data
 
-![Training Data](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management/blob/8dc95302b9a76f686b0a15fb636b332c09314b83/Screenshots%20Outputs/Train%20Data.png)
+![Training Data](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management-/blob/1058818f40996793a5f8c0e1590c27ae23b2d5d6/Screenshots%20Outputs/Train%20Data.png)
 
 ## Face Detection
 
-![Face Detection](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management/blob/8dc95302b9a76f686b0a15fb636b332c09314b83/Screenshots%20Outputs/Face%20Recognition.png)
+![Face Detection](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management-/blob/1058818f40996793a5f8c0e1590c27ae23b2d5d6/Screenshots%20Outputs/Face%20Recognition.png)
 
 ## Attendance
 
-![Attendance](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management/blob/8dc95302b9a76f686b0a15fb636b332c09314b83/Screenshots%20Outputs/Attendence.png)
+![Attendance](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management-/blob/1058818f40996793a5f8c0e1590c27ae23b2d5d6/Screenshots%20Outputs/Attendence.png)
 
 ## ChatBot
 
-![ChatBot](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management/blob/8dc95302b9a76f686b0a15fb636b332c09314b83/Screenshots%20Outputs/Chatbot.png)
+![ChatBot](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management-/blob/1058818f40996793a5f8c0e1590c27ae23b2d5d6/Screenshots%20Outputs/Chatbot.png)
 ## Photos Captured for Training
 
-![Photo](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management/blob/8dc95302b9a76f686b0a15fb636b332c09314b83/Screenshots%20Outputs/student%20data.png)
+![Photo](https://github.com/aruntiwari-dev/Real-Time-Face-Recognition-Automatic-Students-Attendance-Management-/blob/1058818f40996793a5f8c0e1590c27ae23b2d5d6/Screenshots%20Outputs/student%20data.png)
 
 
 ## Project Modules
